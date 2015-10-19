@@ -2,7 +2,7 @@
 
 ## Install
 
-``
+```
 brew tap 45deg/homebrew-xv6tools
 brew install --HEAD xv6tools
 ```
